@@ -1,4 +1,0 @@
-repository "Asteroid_Space_Alpha@unity_7FDE6F14CD88B3FD38D6@cloud"
-  path "/"
-    br "/main"
-    co "/main"
